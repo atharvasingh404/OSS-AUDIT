@@ -4,8 +4,8 @@
 ---
 
 ## Student Information
-- **Name:** Devesh Agarwal
-- **Registration Number:** 24BAI10908
+- **Name:** Atharva Pratap Singh
+- **Registration Number:** 24BAI10879
 - **Course:** Open Source Software (OSS NGMC)
 - **Chosen Software:** Python
 
@@ -357,8 +357,8 @@ bash script1.sh  # Run with bash explicitly
 
 ## Author
 
-**Devesh Agarwal**
-- Registration: 24BAI10908
+**Atharva Pratap Singh**
+- Registration: 24BAI10879
 - Course: Open Source Software (OSS NGMC)
 - VIT Bhopal University
 
