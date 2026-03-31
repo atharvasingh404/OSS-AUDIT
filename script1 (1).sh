@@ -1,12 +1,12 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Shubham Mishra | Registration: 24BCY10064
+# Author: Atharva Pratap Singh | Registration: 24BAI10879
 # Purpose: Display system information as a welcome screen
 # Concepts: variables, echo, command substitution, output formatting
 
 # --- Variables ---
-STUDENT_NAME="Shubham Mishra"
-REG_NUMBER="24BCY10064"
+STUDENT_NAME="Atharva Pratap Singh"
+REG_NUMBER="24BAI10879"
 SOFTWARE_CHOICE="Python"  # Change this to your chosen software
 
 # --- System information using command substitution ---
