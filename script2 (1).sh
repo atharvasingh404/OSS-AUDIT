@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Shubham Mishra | Registration: 24BCY10064
+# Author: Atharva Pratap Singh | Registration: 24BAI10879
 # Purpose: Check if chosen software is installed and display its details
 # Concepts: if-then-else, case statement, rpm/dpkg queries, grep, pipe
 
